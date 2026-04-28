@@ -1,5 +1,0 @@
-# APEX SMC Scanner — Dependências Python
-requests==2.31.0
-pandas==2.1.4
-numpy==1.26.2
-schedule==1.2.1
